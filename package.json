@@ -1,0 +1,14 @@
+{
+  "name": "frbserver",
+  "version": "1.0.0",
+  "description": "First Server NodeJs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fabrizio RB",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
